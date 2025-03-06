@@ -23,3 +23,11 @@ Bu github organizasyonu altında Yazılım Mimarileri hakkındaki bilgilerimizi 
 
 - [Prometheus - Grafana - ASP.NET Core](https://github.com/DTVegaArchChapter/DevOps/tree/main/monitoring-and-logging/prometheus-grafana-aspnet-core)
 - [Prometheus - Alertmanager](https://github.com/DTVegaArchChapter/DevOps/tree/main/monitoring-and-logging/prometheus-alertmanager)
+
+### Game Programming
+
+#### 2D Games
+
+##### Golang
+- [Türkçe Wordle](https://github.com/DTVegaArchChapter/GameProgramming/tree/main/2d-games/wordle/golang)
+- [Blocks](https://github.com/DTVegaArchChapter/GameProgramming/tree/main/2d-games/blocks/golang)
