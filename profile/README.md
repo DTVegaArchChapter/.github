@@ -12,6 +12,7 @@ Bu github organizasyonu altında Yazılım Mimarileri hakkındaki bilgilerimizi 
 
 - [Todo Microservice](https://github.com/DTVegaArchChapter/Architecture/tree/main/microservices/TodoMicroservice)
 - [Transactional Outbox Pattern](https://github.com/DTVegaArchChapter/Architecture/tree/main/microservices/OutboxPattern)
+- [Microfrontend]()
 
 #### DDD
 
@@ -29,5 +30,12 @@ Bu github organizasyonu altında Yazılım Mimarileri hakkındaki bilgilerimizi 
 #### 2D Games
 
 ##### Golang
+
 - [Türkçe Wordle](https://github.com/DTVegaArchChapter/GameProgramming/tree/main/2d-games/wordle/golang)
 - [Blocks](https://github.com/DTVegaArchChapter/GameProgramming/tree/main/2d-games/blocks/golang)
+
+### Diğer
+
+- [RabbitMQ Sample](https://github.com/DTVegaArchChapter/RabbitMqSample)
+- [Personnel Mongo Db](https://github.com/DTVegaArchChapter/PersonnelMongoDb)
+- [Long Running Request Messages](https://github.com/DTVegaArchChapter/LongRunningExternalRequestMessaging)
