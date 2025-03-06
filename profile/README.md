@@ -5,3 +5,14 @@ Bu github organizasyonu altında Yazılım Mimarileri hakkındaki bilgilerimizi 
 ## Projeler
 
 - [Software Architect Learning Path](https://github.com/DTVegaArchChapter/SoftwareArchitectLearningPath)
+
+### Architecture
+
+#### Microservices
+
+- [Todo Microservice](https://github.com/DTVegaArchChapter/Architecture/tree/main/microservices/TodoMicroservice)
+- [Transactional Outbox Pattern](https://github.com/DTVegaArchChapter/Architecture/tree/main/microservices/OutboxPattern)
+
+#### DDD
+
+- [Goal Management System](https://github.com/DTVegaArchChapter/Architecture/tree/main/ddd/goal-management-system)
