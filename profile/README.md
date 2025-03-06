@@ -12,7 +12,8 @@ Bu github organizasyonu altında Yazılım Mimarileri hakkındaki bilgilerimizi 
 
 - [Todo Microservice](https://github.com/DTVegaArchChapter/Architecture/tree/main/microservices/TodoMicroservice)
 - [Transactional Outbox Pattern](https://github.com/DTVegaArchChapter/Architecture/tree/main/microservices/OutboxPattern)
-- [Microfrontend]()
+- [Microfrontend Sample](https://github.com/DTVegaArchChapter/Architecture/tree/main/microservices/microfrontend-sample)
+- [RabbitMQ Sample](https://github.com/DTVegaArchChapter/Architecture/tree/main/microservices/RabbitMqSample)
 
 #### DDD
 
@@ -36,6 +37,9 @@ Bu github organizasyonu altında Yazılım Mimarileri hakkındaki bilgilerimizi 
 
 ### Diğer
 
-- [RabbitMQ Sample](https://github.com/DTVegaArchChapter/RabbitMqSample)
 - [Personnel Mongo Db](https://github.com/DTVegaArchChapter/PersonnelMongoDb)
 - [Long Running Request Messages](https://github.com/DTVegaArchChapter/LongRunningExternalRequestMessaging)
+
+## Kullanım
+
+Her proje dizini, ilgili örnek projenin nasıl kurulacağı ve kullanılacağına dair talimatlar içeren ayrıntılı bir `README` dosyası içerir.
