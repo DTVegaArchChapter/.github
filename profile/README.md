@@ -16,3 +16,10 @@ Bu github organizasyonu altında Yazılım Mimarileri hakkındaki bilgilerimizi 
 #### DDD
 
 - [Goal Management System](https://github.com/DTVegaArchChapter/Architecture/tree/main/ddd/goal-management-system)
+
+### Devops
+
+#### Monitoring and Logging
+
+- [Prometheus - Grafana - ASP.NET Core](https://github.com/DTVegaArchChapter/DevOps/tree/main/monitoring-and-logging/prometheus-grafana-aspnet-core)
+- [Prometheus - Alertmanager](https://github.com/DTVegaArchChapter/DevOps/tree/main/monitoring-and-logging/prometheus-alertmanager)
