@@ -35,6 +35,10 @@ Bu github organizasyonu altında Yazılım Mimarileri hakkındaki bilgilerimizi 
 - [Türkçe Wordle](https://github.com/DTVegaArchChapter/GameProgramming/tree/main/2d-games/wordle/golang)
 - [Blocks](https://github.com/DTVegaArchChapter/GameProgramming/tree/main/2d-games/blocks/golang)
 
+##### Rust
+
+- [Snake](https://github.com/DTVegaArchChapter/GameProgramming/tree/main/2d-games/snake/rustlang)
+
 ### Diğer
 
 - [Personnel Mongo Db](https://github.com/DTVegaArchChapter/PersonnelMongoDb)
