@@ -8,6 +8,11 @@ Bu github organizasyonu altında Yazılım Mimarileri hakkındaki bilgilerimizi 
 
 ### Architecture
 
+#### Architecture Patterns
+
+- [Onion Architecture](https://github.com/DTVegaArchChapter/ArchitecturePatterns/tree/main/Examples/Onion)
+- [Vertical Slice Architecture](https://github.com/DTVegaArchChapter/ArchitecturePatterns/tree/main/Examples/VerticalSlice)
+
 #### Microservices
 
 - [Todo Microservice](https://github.com/DTVegaArchChapter/Architecture/tree/main/microservices/TodoMicroservice)
