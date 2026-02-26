@@ -5,6 +5,7 @@ Bu github organizasyonu altında Yazılım Mimarileri hakkındaki bilgilerimizi 
 ## Projeler
 
 - [Software Architect Learning Path](https://github.com/DTVegaArchChapter/SoftwareArchitectLearningPath)
+- [Architecture Maturity Analyzer](https://github.com/DTVegaArchChapter/architecture-maturity-analyzer)
 
 ### Architecture
 
