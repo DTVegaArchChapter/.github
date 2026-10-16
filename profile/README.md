@@ -52,6 +52,7 @@ Bu github organizasyonu altında Yazılım Mimarileri hakkındaki bilgilerimizi 
 
 - [Personnel Mongo Db](https://github.com/DTVegaArchChapter/PersonnelMongoDb)
 - [Long Running Request Messages](https://github.com/DTVegaArchChapter/LongRunningExternalRequestMessaging)
+- [EF Core ile Çok Dilli Veri Modeli: Per-Entity Translation Table Yaklaşımı](https://github.com/DTVegaArchChapter/dotnet-ef-multilingual-per-entity-translation-table)
 
 ## Kullanım
 
